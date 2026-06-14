@@ -35,7 +35,7 @@ Using **Advanced DAX** scripting, we formulated a custom metric called the **Pri
 *Analyzing free-market villa benchmarks and short-term tourism rental spikes driven by pilgrim demand in Makkah.*
 <img width="719" height="313" alt="Aqar screen shot" src="https://github.com/user-attachments/assets/4bb28b91-6d21-47a8-bc21-bc09f135cc2f" />
 
-<img width="413" height="267" alt="dimensional model" src="https://github.com/user-attachments/assets/44a530de-5296-426e-9b19-7d535673c469" />
+
 <img width="624" height="353" alt="data quality power query" src="https://github.com/user-attachments/assets/ac96edb9-6750-43e5-9cc0-9ed1aa390488" />
 
 
