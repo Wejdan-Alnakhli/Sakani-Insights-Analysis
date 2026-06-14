@@ -28,7 +28,8 @@ Using **Advanced DAX** scripting, we formulated a custom metric called the **Pri
 
 ### 1. Sakani Executive Dashboard
 *Comprehensive insights into beneficiary demographics, geographic distribution, and product types.*
-<img width="1024" height="559" alt="dashboard" src="https://github.com/user-attachments/assets/ac691ae8-c48d-4ea9-9a52-d1d2cf868482" />
+<img width="641" height="356" alt="sakani dashboard" src="https://github.com/user-attachments/assets/2a6651b4-40be-4a43-bc2d-651c2191a99e" />
+
 
 ### 2. Aqar & Airbnb Market Dashboard
 *Analyzing free-market villa benchmarks and short-term tourism rental spikes driven by pilgrim demand in Makkah.*
